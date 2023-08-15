@@ -1,4 +1,4 @@
-![](MLP-4SAwRust-1Sorting/ManningLogo.png)_LEARNING PROJECT_
+![](ManningLogo.png)_LEARNING PROJECT_
 # SORTING and SEARCHING
 This Manning Live Project is about three of the many sorting algorithms available: bubble sort, quicksort, and counting sort.
 ## MILESTONES
