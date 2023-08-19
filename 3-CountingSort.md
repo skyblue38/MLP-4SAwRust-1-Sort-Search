@@ -119,7 +119,7 @@ fn main() {
 }
 ```
 ### 7. Test run
-The complete program code is available HERE.
+The complete program code is available here: [CountingSort.rs](CountingSort.rs.md).
 
 A test run for 10 items with a range of values between 0 and 5 is shown below:
 ``` bash
