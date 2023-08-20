@@ -92,7 +92,7 @@ fn main() {
 }
 ```
 ### 5. Test run
-The complete program source code is available HERE.
+The complete program source code is available here: [binarysearch.rs](binarysearch.rs.md).
 
 Here are some test runs:
 ``` bash
