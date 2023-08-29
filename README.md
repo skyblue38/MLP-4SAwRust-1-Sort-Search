@@ -15,4 +15,4 @@ Click on each link below to read the notes for each Milestone
 * ...more specific information on the topics covered in the milestones
 
 
-Click [HERE](MLP-4SAwRust-1Sorting/0-Setup.md) to see hardware and software setup details for this project
+Click [HERE](0-Setup.md) to see hardware and software setup details for this project
